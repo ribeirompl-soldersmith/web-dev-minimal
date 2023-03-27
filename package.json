@@ -1,0 +1,23 @@
+{
+  "name": "web-dev-minimal",
+  "displayName": "Web Dev Minimal",
+  "publisher": "ribeirompl-soldersmith",
+  "repository": "https://github.com/ribeirompl-soldersmith/web-dev-minimal",
+  "description": "Minimal collection of web extensions for remote system",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "fabianlauer.vs-code-xml-format",
+    "formulahendry.auto-close-tag",
+    "monosans.djlint",
+    "samuelcolvin.jinjahtml",
+    "streetsidesoftware.code-spell-checker",
+    "vivaxy.vscode-conventional-commits",
+    "waderyan.gitblame"
+  ]
+}
