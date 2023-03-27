@@ -1,6 +1,6 @@
 {
-  "name": "web-dev-minimal",
-  "displayName": "Web Dev Minimal",
+  "name": "web-dev-minimal-extensionpack",
+  "displayName": "Web Dev Minimal ExtensionPack",
   "publisher": "ribeirompl-soldersmith",
   "repository": "https://github.com/ribeirompl-soldersmith/web-dev-minimal",
   "description": "Minimal collection of web extensions for remote system",
