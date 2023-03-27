@@ -12,6 +12,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "alefragnani.project-manager",
     "fabianlauer.vs-code-xml-format",
     "formulahendry.auto-close-tag",
     "monosans.djlint",
